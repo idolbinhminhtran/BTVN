@@ -47,6 +47,6 @@ public class Bai1
         {
             System.out.print(common[k] + " ");
         }
-
+//
     }
 }
